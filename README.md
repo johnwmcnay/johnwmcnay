@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [squarecubed.xyz](https://github.com/codeup-capstone-3d-printing-club/capstone-3d-printing)
 
-- 🌱 I’m currently learning **Go, Redis**
+- 🌱 I’m currently learning **Java, MySQL, Spring Boot, Go, Redis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/johnwmcnay](https://github.com/johnwmcnay)
 
