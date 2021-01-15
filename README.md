@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, MySQL, Spring Boot, Go, Redis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/johnwmcnay](https://github.com/johnwmcnay)
+- 👨‍💻 All of my projects are available here on GitHub
 
 - 📫 How to reach me **john.w.mcnay@gmail.com**
 
