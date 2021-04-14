@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm John McNay</h1>
 <h3 align="center">Detail-oriented developer with a lifelong passion for computers and technology.</h3>
 
-- 🔭 I’m currently working on [squarecubed.xyz](https://github.com/codeup-capstone-3d-printing-club/capstone-3d-printing)
-
-- 🌱 I’m currently learning **Java, MySQL, Spring Boot, Go, Redis**
+- 🌱 I’m currently learning **Angular, Node.js, Express**
 
 - 👨‍💻 All of my projects are available here on GitHub
 
